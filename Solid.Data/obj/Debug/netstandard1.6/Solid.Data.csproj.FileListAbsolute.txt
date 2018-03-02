@@ -1,0 +1,13 @@
+D:\github\SOLID\Solid.Data\bin\Debug\netstandard1.6\Solid.Data.deps.json
+D:\github\SOLID\Solid.Data\bin\Debug\netstandard1.6\Solid.Data.dll
+D:\github\SOLID\Solid.Data\bin\Debug\netstandard1.6\Solid.Data.pdb
+D:\github\SOLID\Solid.Data\bin\Debug\netstandard1.6\Solid.Core.dll
+D:\github\SOLID\Solid.Data\bin\Debug\netstandard1.6\Solid.Entities.dll
+D:\github\SOLID\Solid.Data\bin\Debug\netstandard1.6\Solid.Core.pdb
+D:\github\SOLID\Solid.Data\bin\Debug\netstandard1.6\Solid.Entities.pdb
+D:\github\SOLID\Solid.Data\obj\Debug\netstandard1.6\Solid.Data.csprojResolveAssemblyReference.cache
+D:\github\SOLID\Solid.Data\obj\Debug\netstandard1.6\Solid.Data.csproj.CoreCompileInputs.cache
+D:\github\SOLID\Solid.Data\obj\Debug\netstandard1.6\Solid.Data.AssemblyInfoInputs.cache
+D:\github\SOLID\Solid.Data\obj\Debug\netstandard1.6\Solid.Data.AssemblyInfo.cs
+D:\github\SOLID\Solid.Data\obj\Debug\netstandard1.6\Solid.Data.dll
+D:\github\SOLID\Solid.Data\obj\Debug\netstandard1.6\Solid.Data.pdb
